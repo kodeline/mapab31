@@ -1,0 +1,58 @@
+col{
+	border: 1px solid;
+	padding: 20px;
+}
+
+footer{
+	color: white;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	padding: 10px;
+	font-size: 15px;
+}
+
+.card {
+	margin-top: 50%;
+	margin-bottom: 50%;
+}
+
+.navbar-brand{
+	color: white;
+	padding-left: 30px;
+	font-size: 25px;
+}
+
+.card-header img{
+	width: 100%;
+	height: 100%;
+}
+
+.card-title{
+	text-decoration: none;
+	font-size 20px; 
+}
+
+img #mapa{
+	margin: 0 auto;
+	width: 100%;
+	height: 100%;
+}
+
+.container{
+	padding: 10px;
+}
+
+.lugares{
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.lugares img{
+	height: 85%;
+	width: 85%;
+}
+
+a:link{ 
+text-decoration:none; 
+}
